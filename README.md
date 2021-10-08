@@ -1,16 +1,16 @@
 ### Hi there 👋, My name is Juan Pablo
 #### I am software developer
 
-I am currently studying Programming and learning about new technologies. 
+I'm studying Programming and learning about new technologies. 
 
-I am eager to contribute with high-value solutions as a software developer in an innovative tech company.
+I'm eager to contribute with high-value solutions as a software developer in an innovative tech company.
 
 With strong experience in the craft beer production field and expecting to expand my horizons.
 
 Skills: REACT / JS / HTML / CSS / NODE.JS / EXPRESS / MONGODB / MYSQL / C 
 
 - 🔭 I’m currently working on educational projects and as a freelancer Dev 
-- 🌱 I’m currently learning Redux, VUE and Java 
+- 🌱 I’m learning Redux, VUE and Java 
 - 📫 How to reach me: https://www.linkedin.com/in/juanpablomoschini/ 
 
 
