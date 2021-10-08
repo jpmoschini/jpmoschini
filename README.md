@@ -1,7 +1,10 @@
 ### Hi there 👋, My name is Juan Pablo
 #### I am software developer
+
 I am currently studying Programming and learning about new technologies. 
+
 I am eager to contribute with high-value solutions as a software developer in an innovative tech company.
+
 With strong experience in the craft beer production field and expecting to expand my horizons.
 
 Skills: REACT / JS / HTML / CSS / NODE.JS / EXPRESS / MONGODB / MYSQL / C 
